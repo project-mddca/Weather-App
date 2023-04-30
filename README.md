@@ -6,5 +6,5 @@ Project contributors:
 - David Cornelius - (Scrum Leader)
 - Ashley Rees - (Developer)
 - Mark Williams - (Developer)
-- Jonny Corner - (Testing)
-- Callum Warwick - (Testing)
+- Jonny Corner - (Testing - Solutions)
+- Callum Warwick - (Testing - Solutions)
